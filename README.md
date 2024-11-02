@@ -5,9 +5,9 @@
 ## Skills
 
 - **Languages**:
--   Lua, C++, C#
+    - Lua, C++, C#
 - **Tools**
--   Roblox Studio, GitHub, Visual Studio 2022
+    -Roblox Studio, GitHub, Visual Studio 2022
 
 ---
 
