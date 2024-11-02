@@ -1,6 +1,4 @@
-# [Your Name] - Roblox Scripting Portfolio
-
-Welcome to my portfolio! I’m 0v0n, a developer focused on creating experiences in Roblox using Lua.
+## Welcome to my portfolio! I’m 0v0n, a developer focused on creating experiences in Roblox using Lua.
 
 ---
 
