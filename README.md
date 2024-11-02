@@ -1,16 +1,14 @@
-## Hi there 👋
+# [Your Name] - Roblox Scripting Portfolio
 
-<!--
-**0v0n/0v0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I’m 0v0n, a developer focused on creating experiences in Roblox using Lua.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages**: Lua, C++, C#
+- **Tools**: Roblox Studio, GitHub, Visual Studio 2022
+
+---
+
+Thank you for viewing my portfolio!
