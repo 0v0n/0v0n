@@ -10,5 +10,3 @@
     - Visual Studio 2022, Roblox Studio, Github
 
 ---
-
-Thank you for viewing my portfolio!
