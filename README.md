@@ -2,7 +2,7 @@
 
 ---
 
-## Skills
+# Skills
 
 - **Languages**
     - Lua, C++, C#
